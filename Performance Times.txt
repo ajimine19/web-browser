@@ -1,0 +1,16 @@
+Website — Times in seconds
+Sprint 4
+	google.com — 0.00187
+	youtube.com — 0.01365
+	up.edu — 0.23174
+	amazon.com — 0.04585
+	en.wikipedia.org/wiki/Main_Page — 0.04461
+
+Sprint 5
+	google.com - 0.2168
+	youtube.com - 16.8204
+	up.edu - 1.7388
+	amazon.com - 38.8032
+	en.wikipedia.org/wiki/Main_Page — 3.0628
+
+	
